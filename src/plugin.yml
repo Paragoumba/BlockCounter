@@ -1,0 +1,8 @@
+name: BlockCounter
+version: 1.0
+author: Paragoumba
+main: fr.paragoumba.blockcounter.BlockCounter
+commands:
+  count:
+    description: Displays the number of each block's type in the area.
+    usage: /count [toggleselect|ts]
